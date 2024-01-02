@@ -40,11 +40,11 @@
 ![Alt text](final/11.png)
 ![Alt text](final/12.png)
 ![Alt text](final/13.png)
-![Alt text](final/14.png)
+
 
 # 數據庫
 
-![Alt text](final/15.png)
+![Alt text](final/14.png)
 
 # 參考資料
 
